@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keutlwile Mpolokeng</h1>
-<h3 align="center">I am a frontend developer as well as a former WeThinkCode_ sudent. I am passionate about what I do and always willing looking for opportunities to learn new skills.</h3>
+<h3 align="center">I am a frontend developer as well as a former WeThinkCode_ sudent. I am passionate about what I do and always willing and looking for opportunities to learn new skills.</h3>
 
 - 📫 How to reach me **keutlwilempolokeng@gmail.com**
 
